@@ -1,3 +1,2 @@
-# Tasarım Bana Ait Değildir Tasarım HTML idi
-# Bende Wordpress'e Döktüm
-# Wordpress Kodlaması Bana Aittir.
+# Tasarım HTML'idi bende kalkıp wordpress'e uyarladım
+# Wordpress Tamamen Kodlaması Bana Aittir.
