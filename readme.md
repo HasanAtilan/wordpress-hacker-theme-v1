@@ -1,9 +1,4 @@
-# Tasarım HTML'idi bende kalkıp wordpress'e uyarladım
-# Wordpress Tamamen Kodlaması Bana Aittir.
-<p> Bildiğim Programlama Dilleri: PHP - JS - NODEJS - BASH - C - C++ - SWİFT [KISACASI BACKENDCİYİM)
-<p> telegram: @netmrhasan
-<p> twitter: @netmrhasan
-
-
-![Uygulamacik](https://resmim.net/f/aIyPAw.png?nocache )
-
+# Tema HTML'idi bende 2 gün önce kodlayıp wordpress'e döktüm 15dk sürdü neyse silmektense paylaşayım dedim herkes yararlansın.
+# Kodlaması ve Wordpress'e Uyarlanmasi Bana Aittir.
+# hasanatilan.com - telegram: @netmrhasan - instagram: @netmrhasan
+# Tema Görüntüsü: https://prnt.sc/obt9mf
