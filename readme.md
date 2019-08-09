@@ -5,4 +5,6 @@
 <p> telegram: @netmrhasan
 <p> twitter: @netmrhasan
 <p> instagram: @netmrhasan
-# Tema Görüntüsü: https://prnt.sc/obt9mf
+
+![Uygulamacik](https://resmim.net/f/aIyPAw.png?nocache)
+
